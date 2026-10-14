@@ -1,0 +1,2 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+f	Interpretation	Nonmatched benchmarks; no causal effect of reference absence	NA	NA	boundary	NA	NA	NA

@@ -1,0 +1,26 @@
+{
+  "title": "OFFREF-REG: frozen sequence-to-function reliability audit",
+  "description": "Original analysis and figure code, frozen numeric source data and reliability audit endpoints. MIT applies to original code only. AlphaGenome outputs and derivatives are subject to https://deepmind.google.com/science/alphagenome/output-terms; read DATA_TERMS.md. No third-party sequences, donor-level data, model weights or credentials are included.",
+  "creators": [
+    {
+      "name": "OFFREF-REG"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "version": "1.0.0",
+  "keywords": [
+    "pangenome",
+    "non-reference insertion",
+    "reliability",
+    "AlphaGenome",
+    "Borzoi"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/seefreewind/offref-reg",
+      "relation": "isSupplementTo"
+    }
+  ]
+}

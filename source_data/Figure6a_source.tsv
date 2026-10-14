@@ -1,0 +1,5 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+a	GNRS freeze	Frozen gene pairs	33	33	loci	NA	NA	NA
+a	GNRS recovery	Joint usable	9	33	loci	NA	NA	NA
+a	Borzoi upper bound	Theoretical geometry only	13	33	loci	NA	NA	NA
+a	Calibration gate	Prespecified	20	33	loci	NA	NA	NA

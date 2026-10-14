@@ -1,0 +1,3 @@
+analysis_label	model	condition	frozen_N	finite_N	signed_N	concordant_N	rho	rho_low	rho_high	sign_fraction	sign_low	sign_high	CI_method
+GNRS descriptive	AlphaGenome	Recovered signed truth	33	9	9	2	-0.8833333333333333	-1	-0.47368421052631576	0.22222222222222221	0	0.55555555555555558	10000 paired locus
+GNRS descriptive	Borzoi	Recovered signed truth	33	9	9	5	0.43333333333333335	-0.47368421052631576	0.98333333333332706	0.55555555555555558	0.22222222222222221	0.88888888888888884	10000 paired locus

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+qa/*preview*
+qa/*grayscale*
+qa/*deuteranopia*
+figures/*.png
+figures/*.pdf
+supplementary/*.png
+supplementary/*.pdf

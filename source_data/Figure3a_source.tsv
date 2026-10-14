@@ -1,0 +1,4 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+a	Placement	Prespecified displacement	-32768	100	bp	NA	NA	NA
+a	Placement	Prespecified displacement	0	100	bp	NA	NA	NA
+a	Placement	Prespecified displacement	32768	100	bp	NA	NA	NA

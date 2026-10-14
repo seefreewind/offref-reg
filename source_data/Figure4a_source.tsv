@@ -1,0 +1,7 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+a	AlphaGenome	Restricted 1	16384	100	bp	AlphaGenome	NA	NA
+a	AlphaGenome	Restricted 2	131072	100	bp	AlphaGenome	NA	NA
+a	AlphaGenome	Native	1048576	100	bp	AlphaGenome	NA	NA
+a	Borzoi	Restricted 1	16384	100	bp	Borzoi	NA	NA
+a	Borzoi	Restricted 2	131072	100	bp	Borzoi	NA	NA
+a	Borzoi	Native	524288	100	bp	Borzoi	NA	NA

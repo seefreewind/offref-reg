@@ -1,0 +1,14 @@
+Section	Analysis	N	Spearman rho (95% CI)	Sign concordance, % (95% CI)
+Cross-model reliability	Reference cross-model	500/500	0.626 (0.544–0.699)	68.2 (63.9–72.4)
+Cross-model reliability	Off-reference original	318/400	-0.111 (-0.250–0.033)	46.9 (41.5–52.5)
+Cross-model reliability	Off-reference strict	318/400	-0.052 (-0.195–0.092)	48.7 (43.4–54.4)
+Technical robustness	AlphaGenome placement¹	72/100	0.786–0.881¹	88.9–91.7¹
+Technical robustness	Borzoi placement¹	72/100	0.971–0.991¹	97.2–98.6¹
+Context sensitivity	AlphaGenome 16 kb	29/100	0.056 (-0.427–0.499)	48.3 (31.0–65.5)
+Context sensitivity	AlphaGenome 131 kb	29/100	0.500 (0.061–0.838)	69.0 (51.7–86.2)
+Context sensitivity	Borzoi 16 kb	29/100	0.149 (-0.328–0.586)	58.6 (41.4–75.9)
+Context sensitivity	Borzoi 131 kb	29/100	0.753 (0.391–0.979)	82.8 (69.0–96.6)
+Reference biological calibration	AlphaGenome vs measured beta	500/500	0.522 (0.456–0.583)	72.4 (68.4–76.2)
+Reference biological calibration	Borzoi vs measured beta	500/500	0.397 (0.319–0.471)	65.0 (60.8–69.2)
+Generalization gap	Reference − insertion Δrho	500 vs 318	0.737 (0.574–0.897)	—
+Generalization gap	Reference − insertion Δsign	500 vs 318	—	21.34 pp (14.62–28.17)

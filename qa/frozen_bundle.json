@@ -1,0 +1,686 @@
+{
+  "harmonization": {
+    "original": {
+      "frozen_N": 400,
+      "finite_N": 318,
+      "signed_N": 318,
+      "concordant_N": 149,
+      "proportion": 0.46855345911949686,
+      "exact_CI95": [
+        0.4126528742188839,
+        0.5250451793418978
+      ],
+      "binomial_P": 0.28664802202389666,
+      "rho": -0.1113027120530779,
+      "pearson": -0.12545356744021746,
+      "median_abs_AG": 4.827299327575974e-05,
+      "median_abs_Borzoi": 0.00029762765553355004,
+      "rho_CI95": [
+        -0.2504252749774483,
+        0.03343486625471442
+      ],
+      "pearson_CI95": [
+        -0.39710519631408947,
+        0.2600439870878292
+      ],
+      "sign_bootstrap_CI95": [
+        0.41509433962264153,
+        0.5251572327044025
+      ],
+      "bootstrap": "10000 paired locus"
+    },
+    "tier1_cached": {
+      "frozen_N": 400,
+      "finite_N": 318,
+      "signed_N": 318,
+      "concordant_N": 149,
+      "proportion": 0.46855345911949686,
+      "exact_CI95": [
+        0.4126528742188839,
+        0.5250451793418978
+      ],
+      "binomial_P": 0.28664802202389666,
+      "rho": -0.1113027120530779,
+      "pearson": -0.1254535674402169,
+      "median_abs_AG": 4.827299327575966e-05,
+      "median_abs_Borzoi": 0.00029762765553355004,
+      "rho_CI95": [
+        -0.2504252749774483,
+        0.03343486625471442
+      ],
+      "pearson_CI95": [
+        -0.3971051963140887,
+        0.2600439870878255
+      ],
+      "sign_bootstrap_CI95": [
+        0.41509433962264153,
+        0.5251572327044025
+      ],
+      "bootstrap": "10000 paired locus"
+    },
+    "log1p": {
+      "frozen_N": 400,
+      "finite_N": 318,
+      "signed_N": 318,
+      "concordant_N": 149,
+      "proportion": 0.46855345911949686,
+      "exact_CI95": [
+        0.4126528742188839,
+        0.5250451793418978
+      ],
+      "binomial_P": 0.28664802202389666,
+      "rho": -0.10883271427902393,
+      "pearson": 0.029310891180999797,
+      "median_abs_AG": 4.741185725073239e-05,
+      "median_abs_Borzoi": 0.0002952360942086,
+      "rho_CI95": [
+        -0.24705832375130232,
+        0.03480767043815131
+      ],
+      "pearson_CI95": [
+        -0.37428612717632204,
+        0.44560098487791516
+      ],
+      "sign_bootstrap_CI95": [
+        0.41509433962264153,
+        0.5251572327044025
+      ],
+      "bootstrap": "10000 paired locus"
+    },
+    "TIER1_EXACT": {
+      "frozen_N": 400,
+      "finite_N": 318,
+      "signed_N": 318,
+      "concordant_N": 155,
+      "proportion": 0.48742138364779874,
+      "exact_CI95": [
+        0.43125276636554055,
+        0.5438264411868015
+      ],
+      "binomial_P": 0.6947235158086008,
+      "rho": -0.05244332560440593,
+      "pearson": -0.11618929149904907,
+      "median_abs_AG": 4.6796277055748356e-05,
+      "median_abs_Borzoi": 0.00029762765553359536,
+      "rho_CI95": [
+        -0.19453065889200621,
+        0.09178054894184062
+      ],
+      "pearson_CI95": [
+        -0.3904173925091283,
+        0.2785072375919884
+      ],
+      "sign_bootstrap_CI95": [
+        0.4338836477987422,
+        0.5440251572327044
+      ],
+      "bootstrap": "10000 paired locus"
+    },
+    "TIER2_NEAR": {
+      "frozen_N": 400,
+      "finite_N": 318,
+      "signed_N": 318,
+      "concordant_N": 155,
+      "proportion": 0.48742138364779874,
+      "exact_CI95": [
+        0.43125276636554055,
+        0.5438264411868015
+      ],
+      "binomial_P": 0.6947235158086008,
+      "rho": -0.05244332560440593,
+      "pearson": -0.11618929149904905,
+      "median_abs_AG": 4.6796277055748356e-05,
+      "median_abs_Borzoi": 0.0002976276555335953,
+      "rho_CI95": [
+        -0.19453065889200621,
+        0.09178054894184062
+      ],
+      "pearson_CI95": [
+        -0.3904173925091283,
+        0.2785072375919884
+      ],
+      "sign_bootstrap_CI95": [
+        0.4338836477987422,
+        0.5440251572327044
+      ],
+      "bootstrap": "10000 paired locus"
+    },
+    "TIER3_GLOBAL": {
+      "frozen_N": 400,
+      "finite_N": 318,
+      "signed_N": 318,
+      "concordant_N": 155,
+      "proportion": 0.48742138364779874,
+      "exact_CI95": [
+        0.43125276636554055,
+        0.5438264411868015
+      ],
+      "binomial_P": 0.6947235158086008,
+      "rho": -0.08942276349799301,
+      "pearson": 0.5887076122994928,
+      "median_abs_AG": 0.0001540468882474768,
+      "median_abs_Borzoi": 0.0005568961846673741,
+      "rho_CI95": [
+        -0.2311732016958863,
+        0.053095320509994666
+      ],
+      "pearson_CI95": [
+        -0.37211426417620935,
+        0.890499191343678
+      ],
+      "sign_bootstrap_CI95": [
+        0.4308176100628931,
+        0.5440251572327044
+      ],
+      "bootstrap": "10000 paired locus"
+    }
+  },
+  "reference": {
+    "cross_model": {
+      "frozen_N": 500,
+      "finite_N": 500,
+      "signed_N": 500,
+      "concordant_N": 341,
+      "proportion": 0.682,
+      "exact_CI95": [
+        0.6391926229674858,
+        0.7226390851923075
+      ],
+      "binomial_P": 2.7000856086099724e-16,
+      "rho": 0.6257861831447326,
+      "pearson": 0.5107459955038889,
+      "median_abs_AG": 0.0020732298645218133,
+      "median_abs_Borzoi": 0.0006922320524095704,
+      "rho_CI95": [
+        0.5444821686555631,
+        0.6992931185459792
+      ],
+      "pearson_CI95": [
+        0.4363018801331389,
+        0.7130454199213919
+      ],
+      "sign_bootstrap_CI95": [
+        0.6392785571142284,
+        0.723659985611622
+      ],
+      "bootstrap": "10000 gene/locus-cluster"
+    },
+    "strict_cross_model": {
+      "frozen_N": 500,
+      "finite_N": 500,
+      "signed_N": 500,
+      "concordant_N": 341,
+      "proportion": 0.682,
+      "exact_CI95": [
+        0.6391926229674858,
+        0.7226390851923075
+      ],
+      "binomial_P": 2.7000856086099724e-16,
+      "rho": 0.6257861831447326,
+      "pearson": 0.5107459955038889,
+      "median_abs_AG": 0.0020732298645218133,
+      "median_abs_Borzoi": 0.0006922320524095704,
+      "rho_CI95": [
+        0.5444821686555631,
+        0.6992931185459792
+      ],
+      "pearson_CI95": [
+        0.436301880133139,
+        0.7130454199213919
+      ],
+      "sign_bootstrap_CI95": [
+        0.6392785571142284,
+        0.723659985611622
+      ],
+      "bootstrap": "10000 gene/locus-cluster"
+    },
+    "AlphaGenome_measured_beta": {
+      "frozen_N": 500,
+      "finite_N": 500,
+      "signed_N": 500,
+      "concordant_N": 362,
+      "proportion": 0.724,
+      "exact_CI95": [
+        0.6825697046273095,
+        0.7627582295755971
+      ],
+      "binomial_P": 3.327843296303148e-24,
+      "rho": 0.5219602318409273,
+      "pearson": 0.2537101434246895,
+      "median_abs_AG": 0.0020732298645218133,
+      "median_abs_Borzoi": 0.6729085,
+      "rho_CI95": [
+        0.45632324599578405,
+        0.5833241143384299
+      ],
+      "pearson_CI95": [
+        0.18982393516691407,
+        0.4195665373944104
+      ],
+      "sign_bootstrap_CI95": [
+        0.6841046277665996,
+        0.7620967741935484
+      ],
+      "bootstrap": "10000 gene/locus-cluster"
+    },
+    "Borzoi_measured_beta": {
+      "frozen_N": 500,
+      "finite_N": 500,
+      "signed_N": 500,
+      "concordant_N": 325,
+      "proportion": 0.65,
+      "exact_CI95": [
+        0.6064011333593088,
+        0.6918131012593911
+      ],
+      "binomial_P": 1.9026939519251555e-11,
+      "rho": 0.39651835407341623,
+      "pearson": 0.32538096424149265,
+      "median_abs_AG": 0.0006922320524095704,
+      "median_abs_Borzoi": 0.6729085,
+      "rho_CI95": [
+        0.31902315119812596,
+        0.4714681069053783
+      ],
+      "pearson_CI95": [
+        0.26534066152365543,
+        0.3826357892323709
+      ],
+      "sign_bootstrap_CI95": [
+        0.6075697211155379,
+        0.6921529175050302
+      ],
+      "bootstrap": "10000 gene/locus-cluster"
+    },
+    "genes_N": 473
+  },
+  "placement_context": [
+    {
+      "frozen_N": 100,
+      "finite_N": 72,
+      "signed_N": 72,
+      "concordant_N": 66,
+      "proportion": 0.9166666666666666,
+      "exact_CI95": [
+        0.827391415316326,
+        0.9688024908586155
+      ],
+      "binomial_P": 7.255748219519502e-14,
+      "rho": 0.8813106952215577,
+      "pearson": 0.9907628330367113,
+      "median_abs_AG": 5.922987496942501e-05,
+      "median_abs_Borzoi": 6.528839454808481e-05,
+      "rho_CI95": [
+        0.7178729224555837,
+        0.9892167107152136
+      ],
+      "pearson_CI95": [
+        0.9646177201081412,
+        0.9980206061955275
+      ],
+      "sign_bootstrap_CI95": [
+        0.8472222222222222,
+        0.9722222222222222
+      ],
+      "bootstrap": "10000 paired locus",
+      "model": "AlphaGenome",
+      "analysis": "PLACEMENT",
+      "baseline": 0,
+      "alternative": -32768,
+      "interpretation": "same fixed homologous exon intersection"
+    },
+    {
+      "frozen_N": 100,
+      "finite_N": 72,
+      "signed_N": 72,
+      "concordant_N": 64,
+      "proportion": 0.8888888888888888,
+      "exact_CI95": [
+        0.7927531293332511,
+        0.950791960729359
+      ],
+      "binomial_P": 5.765519304519332e-12,
+      "rho": 0.7857418483503763,
+      "pearson": 0.9193162896825021,
+      "median_abs_AG": 5.922987496942501e-05,
+      "median_abs_Borzoi": 8.817513783772768e-05,
+      "rho_CI95": [
+        0.5868578049026443,
+        0.9391800211991219
+      ],
+      "pearson_CI95": [
+        0.5232544191504664,
+        0.9983684066441707
+      ],
+      "sign_bootstrap_CI95": [
+        0.8055555555555556,
+        0.9583333333333334
+      ],
+      "bootstrap": "10000 paired locus",
+      "model": "AlphaGenome",
+      "analysis": "PLACEMENT",
+      "baseline": 0,
+      "alternative": 32768,
+      "interpretation": "same fixed homologous exon intersection"
+    },
+    {
+      "frozen_N": 100,
+      "finite_N": 29,
+      "signed_N": 29,
+      "concordant_N": 14,
+      "proportion": 0.4827586206896552,
+      "exact_CI95": [
+        0.2944855829518411,
+        0.6746850036385436
+      ],
+      "binomial_P": 1.0,
+      "rho": 0.05566502463054186,
+      "pearson": 0.4778653183701958,
+      "median_abs_AG": 0.0003570266391920007,
+      "median_abs_Borzoi": 0.00031932366463730254,
+      "rho_CI95": [
+        -0.42675788504717505,
+        0.4987772143303954
+      ],
+      "pearson_CI95": [
+        -0.8833194768319885,
+        0.9701501488106453
+      ],
+      "sign_bootstrap_CI95": [
+        0.3103448275862069,
+        0.6551724137931034
+      ],
+      "bootstrap": "10000 paired locus",
+      "model": "AlphaGenome",
+      "analysis": "CONTEXT",
+      "baseline": 1048576,
+      "alternative": 16384,
+      "interpretation": "same fixed homologous exon intersection;Borzoi short=mask ablation"
+    },
+    {
+      "frozen_N": 100,
+      "finite_N": 29,
+      "signed_N": 29,
+      "concordant_N": 20,
+      "proportion": 0.6896551724137931,
+      "exact_CI95": [
+        0.49167664619000995,
+        0.8471540603913684
+      ],
+      "binomial_P": 0.06142834573984146,
+      "rho": 0.4999999999999999,
+      "pearson": 0.893013790798971,
+      "median_abs_AG": 0.0003570266391920007,
+      "median_abs_Borzoi": 0.0003521054750913154,
+      "rho_CI95": [
+        0.06085720492577199,
+        0.8379242320122093
+      ],
+      "pearson_CI95": [
+        -0.24139314054787367,
+        0.9957106518930455
+      ],
+      "sign_bootstrap_CI95": [
+        0.5172413793103449,
+        0.8620689655172413
+      ],
+      "bootstrap": "10000 paired locus",
+      "model": "AlphaGenome",
+      "analysis": "CONTEXT",
+      "baseline": 1048576,
+      "alternative": 131072,
+      "interpretation": "same fixed homologous exon intersection;Borzoi short=mask ablation"
+    },
+    {
+      "frozen_N": 100,
+      "finite_N": 72,
+      "signed_N": 72,
+      "concordant_N": 71,
+      "proportion": 0.9861111111111112,
+      "exact_CI95": [
+        0.9250286891460809,
+        0.9996484255947663
+      ],
+      "binomial_P": 3.091670257478196e-20,
+      "rho": 0.9711557013312756,
+      "pearson": 0.997693616047705,
+      "median_abs_AG": 0.000285405274857657,
+      "median_abs_Borzoi": 0.0002422855636241708,
+      "rho_CI95": [
+        0.9021153526865552,
+        0.9982946162965388
+      ],
+      "pearson_CI95": [
+        0.975251489326573,
+        0.9998984787635012
+      ],
+      "sign_bootstrap_CI95": [
+        0.9583333333333334,
+        1.0
+      ],
+      "bootstrap": "10000 paired locus",
+      "model": "Borzoi",
+      "analysis": "PLACEMENT",
+      "baseline": 0,
+      "alternative": -32768,
+      "interpretation": "same fixed homologous exon intersection"
+    },
+    {
+      "frozen_N": 100,
+      "finite_N": 72,
+      "signed_N": 72,
+      "concordant_N": 70,
+      "proportion": 0.9722222222222222,
+      "exact_CI95": [
+        0.9032327108865847,
+        0.9966180996738268
+      ],
+      "binomial_P": 1.1134248091657778e-18,
+      "rho": 0.9912856132227155,
+      "pearson": 0.9984300425720571,
+      "median_abs_AG": 0.000285405274857657,
+      "median_abs_Borzoi": 0.0002861361945004322,
+      "rho_CI95": [
+        0.9727385158577224,
+        0.9984544435104183
+      ],
+      "pearson_CI95": [
+        0.9634462571071132,
+        0.9997089390565853
+      ],
+      "sign_bootstrap_CI95": [
+        0.9305555555555556,
+        1.0
+      ],
+      "bootstrap": "10000 paired locus",
+      "model": "Borzoi",
+      "analysis": "PLACEMENT",
+      "baseline": 0,
+      "alternative": 32768,
+      "interpretation": "same fixed homologous exon intersection"
+    },
+    {
+      "frozen_N": 100,
+      "finite_N": 29,
+      "signed_N": 29,
+      "concordant_N": 17,
+      "proportion": 0.5862068965517241,
+      "exact_CI95": [
+        0.38936279139690627,
+        0.7647597902471015
+      ],
+      "binomial_P": 0.45825831964612007,
+      "rho": 0.1487684729064039,
+      "pearson": -0.027444758674204595,
+      "median_abs_AG": 0.0021657707990418336,
+      "median_abs_Borzoi": 0.00031078966960299193,
+      "rho_CI95": [
+        -0.3277474167098168,
+        0.5863459522160525
+      ],
+      "pearson_CI95": [
+        -0.36014929793255135,
+        0.9625215536822125
+      ],
+      "sign_bootstrap_CI95": [
+        0.41379310344827586,
+        0.7586206896551724
+      ],
+      "bootstrap": "10000 paired locus",
+      "model": "Borzoi",
+      "analysis": "CONTEXT",
+      "baseline": 524288,
+      "alternative": 16384,
+      "interpretation": "same fixed homologous exon intersection;Borzoi short=mask ablation"
+    },
+    {
+      "frozen_N": 100,
+      "finite_N": 29,
+      "signed_N": 29,
+      "concordant_N": 24,
+      "proportion": 0.8275862068965517,
+      "exact_CI95": [
+        0.642252445585356,
+        0.9415439170273656
+      ],
+      "binomial_P": 0.0005461126565933228,
+      "rho": 0.7532019704433496,
+      "pearson": 0.9627681624042363,
+      "median_abs_AG": 0.0021657707990418336,
+      "median_abs_Borzoi": 0.0010750071642228,
+      "rho_CI95": [
+        0.3907383842374826,
+        0.9787605808363832
+      ],
+      "pearson_CI95": [
+        0.6428217756801803,
+        0.9970024824731883
+      ],
+      "sign_bootstrap_CI95": [
+        0.6896551724137931,
+        0.9655172413793104
+      ],
+      "bootstrap": "10000 paired locus",
+      "model": "Borzoi",
+      "analysis": "CONTEXT",
+      "baseline": 524288,
+      "alternative": 131072,
+      "interpretation": "same fixed homologous exon intersection;Borzoi short=mask ablation"
+    }
+  ],
+  "gap": {
+    "status": "GENE_CLUSTER_REFERENCE_AND_LOCUS_OOD_BOOTSTRAP",
+    "rho_difference": 0.7370888951978105,
+    "sign_difference": 0.2134465408805032,
+    "rho_difference_CI95": [
+      0.5738244212051637,
+      0.8973663508671821
+    ],
+    "sign_difference_CI95": [
+      0.14624243692491312,
+      0.28165582445221826
+    ],
+    "reference_genes_usable_N": 473,
+    "reference_N": 500,
+    "core_N": 318,
+    "independent_bootstrap_streams": [
+      20261011,
+      20261012
+    ],
+    "design_limit": "GEUVADIS high-PIP SNVs vs naturally occurring complete insertions;ascertainment, effect type and target selection differ;not causal OOD comparison"
+  },
+  "gnrs": {
+    "AlphaGenome": {
+      "frozen_N": 33,
+      "finite_N": 9,
+      "signed_N": 9,
+      "concordant_N": 2,
+      "proportion": 0.2222222222222222,
+      "exact_CI95": [
+        0.028144973477898204,
+        0.6000935737163121
+      ],
+      "binomial_P": 0.1796875,
+      "rho": -0.8833333333333333,
+      "pearson": -0.6921779115683404,
+      "median_abs_AG": 0.011633410016428591,
+      "median_abs_Borzoi": 0.391802,
+      "rho_CI95": [
+        -1.0,
+        -0.47368421052631576
+      ],
+      "pearson_CI95": [
+        -0.9846605980133109,
+        -0.36228928814156935
+      ],
+      "sign_bootstrap_CI95": [
+        0.0,
+        0.5555555555555556
+      ],
+      "bootstrap": "10000 paired locus"
+    },
+    "Borzoi": {
+      "frozen_N": 33,
+      "finite_N": 9,
+      "signed_N": 9,
+      "concordant_N": 5,
+      "proportion": 0.5555555555555556,
+      "exact_CI95": [
+        0.21200850677886804,
+        0.8630043377348334
+      ],
+      "binomial_P": 1.0,
+      "rho": 0.43333333333333335,
+      "pearson": 0.3177915451625419,
+      "median_abs_AG": 0.012804802130322762,
+      "median_abs_Borzoi": 0.391802,
+      "rho_CI95": [
+        -0.47368421052631576,
+        0.9833333333333271
+      ],
+      "pearson_CI95": [
+        -0.6199008833656741,
+        0.9244984568140809
+      ],
+      "sign_bootstrap_CI95": [
+        0.2222222222222222,
+        0.8888888888888888
+      ],
+      "bootstrap": "10000 paired locus"
+    },
+    "joint_recovered_N": 9,
+    "coverage_verdict": "GNRS_LOW_OUTPUT_COVERAGE",
+    "original_N7_unchanged": true
+  },
+  "external": {
+    "status": "EXTERNAL_PUBLIC_SUMMARY_AVAILABLE_DIRECTION_UNVERIFIED_FINAL",
+    "source_URL": "https://www.medrxiv.org/content/medrxiv/early/2026/08/25/2026.08.21.26361050/DC6/embed/media-6.xlsx?download=true",
+    "sha256": "affea56e1e3a8da1f1a3f38d84a287857c48ce6760559b0a46b727446582d63e",
+    "summary_rows_N": 13272,
+    "source_sheets": [
+      "Table4a",
+      "Table4b"
+    ],
+    "beta_column": "slope",
+    "gene_column": "ensemblID",
+    "variant_column": "SVID or ID",
+    "P_column": "qvalue (adjusted); rawP andSE not provided",
+    "effect_allele_explicit_column": false,
+    "exact_match_N": "UNDETERMINED",
+    "independent_direction_truth_N": "UNDETERMINED",
+    "known_GNRS_MAGE_shared_donors": 93,
+    "previous_Phase1R2_unchanged": true,
+    "resource_search": "final targeted pass completed; only downloaded-file/link verification continues",
+    "anchor_length_candidate_rows_N": 1994,
+    "candidate_ClassB_loci_N": 558,
+    "exact_sequence_match_N": "UNDETERMINED",
+    "orientation_reason": "No explicit effect allele in Table4. PLINK\u2192tensorQTL dosage orientation not specified in downloaded Methods. Do not assume ALT dosage; no disjoint-donor summary.",
+    "final_audit_complete": true,
+    "search_stopped": true,
+    "catalogue_ClassB_N": 32969
+  },
+  "bound": {
+    "frozen_N": 33,
+    "upper_bound": 13
+  }
+}

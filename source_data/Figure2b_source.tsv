@@ -1,0 +1,2 @@
+analysis_label	model	condition	frozen_N	finite_N	signed_N	concordant_N	rho	rho_low	rho_high	sign_fraction	sign_low	sign_high	CI_method
+Cross-model	Both	Original	400	318	318	149	-0.1113027120530779	-0.25042527497744832	0.033434866254714417	0.46855345911949686	0.41509433962264153	0.52515723270440251	10000 paired locus

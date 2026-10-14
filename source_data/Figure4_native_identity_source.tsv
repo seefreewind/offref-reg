@@ -1,0 +1,3 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+b/c	AlphaGenome	Native self-comparison; identity, no estimated CI	1	29	rho/sign fraction	NA	NA	NA
+b/c	Borzoi	Native self-comparison; identity, no estimated CI	1	29	rho/sign fraction	NA	NA	NA

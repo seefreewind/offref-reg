@@ -1,0 +1,5 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+a	Reference	High-PIP reference SNVs	500	500	variants	NA	NA	NA
+a	Reference genes	Unique target genes	473	500	genes	NA	NA	NA
+a	Off-reference	Complete Class B insertions	400	400	loci	NA	NA	NA
+a	Joint finite	Homologous exon scores	318	400	loci	NA	NA	NA

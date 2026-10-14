@@ -1,0 +1,10 @@
+Section	Characteristic	Reference comparator	Off-reference core
+Benchmark design	Variant type	Reference-coordinate SNV	Complete Class B insertion
+Benchmark design	Frozen variants	500	400
+Benchmark design	Target genes	473	387
+Benchmark design	Ascertainment	PIP ≥0.9; unique SNVs; ≤5 per gene	Outcome-independent eligible-catalogue stratified sampling
+Sequence characteristics	Length (bp)	1-base substitution; net insertion 0	Median 196.5; IQR 87.75–332.25; range 50–38062
+Sequence characteristics	Inserted-sequence repeat fraction	NA (not supplied)	Median 0.9826; IQR 0.9460–1.0000
+Sequence characteristics	Discovery AF available	NA (not supplied)	400/400; ALT/called haplotypes
+Analytical support	Joint finite scores	500/500	318/400 (79.5%); 82 no common exon
+Analytical support	Biological truth	ALT-oriented measured beta for 500	Separate GNRS panel: 9/33 jointly recovered

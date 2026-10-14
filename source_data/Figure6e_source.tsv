@@ -1,0 +1,6 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+e	Sequence validity	Documented	1	NA	evidence level	NA	NA	NA
+e	Coordinate validity	Documented	2	NA	evidence level	NA	NA	NA
+e	Technical robustness	Assessed	3	NA	evidence level	NA	NA	NA
+e	Cross-model reliability	Assessed; limited	4	NA	evidence level	NA	NA	NA
+e	Biological calibration	Incomplete	5	NA	evidence level	NA	NA	NA

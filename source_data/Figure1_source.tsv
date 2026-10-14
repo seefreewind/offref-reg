@@ -1,0 +1,12 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+a	Paired alleles	Shared flanks; full natural insertion	NA	NA	schematic	NA	NA	NA
+b	Class B catalogue	Callable empty alleles in GRCh38 and CHM13	32969	32969	loci	NA	NA	NA
+b	Frozen core	Outcome-independent sampling	400	400	loci	NA	NA	NA
+b	Joint finite	Homologous exon support	318	400	loci	NA	NA	NA
+b	No common scorable exon	Retained in denominator	82	400	loci	NA	NA	NA
+c	Paired scoring	ALT minus REF RNA density; same homologous exon bases	NA	400	model-specific units	NA	NA	NA
+d	Evidence hierarchy	Technical reproducibility; cross-model reliability; biological calibration	NA	NA	concept	NA	NA	NA
+e	Reference	Cross-model rho	0.6257861831447326	500	rho	NA	0.5444821686555631	0.6992931185459792
+e	Off-reference	Original cross-model rho	-0.1113027120530779	400	rho	NA	-0.2504252749774483	0.03343486625471442
+e	Benchmark gap	Nonmatched comparison	0.7370888951978105	500 vs 318	rho	NA	0.5738244212051637	0.8973663508671821
+e	GNRS usable	Descriptive only	9	33	loci	NA	NA	NA

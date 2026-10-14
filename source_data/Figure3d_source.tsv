@@ -1,0 +1,3 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+d	Placement stability	Within-model: high	NA	100	interpretation	NA	NA	NA
+d	Cross-model reliability	Off-reference: limited	NA	400	interpretation	NA	NA	NA

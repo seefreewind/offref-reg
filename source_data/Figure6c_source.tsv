@@ -1,0 +1,5 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+c	External associations	Public table rows	13272	13272	rows	NA	NA	NA
+c	Anchor/length candidates	Candidate association rows	1994	13272	rows	NA	NA	NA
+c	Class B candidate links	Broader catalogue loci	558	32969	loci	NA	NA	NA
+c	Independent signed truth	Exact sequence/orientation/donor independence unresolved	NA	NA	unresolved	NA	NA	NA

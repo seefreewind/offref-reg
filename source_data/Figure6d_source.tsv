@@ -1,0 +1,10 @@
+panel	analysis_label	condition	estimate	denominator	units	model	CI_low	CI_high
+d	Established	Complete paired alleles	NA	NA	evidence	NA	NA	NA
+d	Established	Homology-aware scoring	NA	NA	evidence	NA	NA	NA
+d	Established	Limited cross-model agreement	NA	NA	evidence	NA	NA	NA
+d	Established	Stronger reference agreement	NA	NA	evidence	NA	NA	NA
+d	Established	Context sensitivity	NA	NA	evidence	NA	NA	NA
+d	Unresolved	Biological model ranking	NA	NA	evidence	NA	NA	NA
+d	Unresolved	Population-level accuracy	NA	NA	evidence	NA	NA	NA
+d	Unresolved	Matched reference-SV comparison	NA	NA	evidence	NA	NA	NA
+d	Unresolved	Independent signed insertion truth	NA	NA	evidence	NA	NA	NA

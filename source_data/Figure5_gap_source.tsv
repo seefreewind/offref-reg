@@ -1,0 +1,3 @@
+analysis_label	metric	estimate	CI_low	CI_high	units	reference_N	core_N	reference_genes
+Reference strict minus core cached exact	rho	0.73708889519781051	0.57382442120516375	0.89736635086718208	rho	500	318	473
+Reference strict minus core cached exact	Sign gap	21.344654088050319	14.624243692491312	28.165582445221826	percentage points	500	318	473
