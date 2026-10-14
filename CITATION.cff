@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the versioned Zenodo archive when reusing this audit."
 title: "OFFREF-REG: frozen sequence-to-function reliability audit"
 type: software
-version: 1.0.0
+version: 1.0.1
 authors:
   - name: OFFREF-REG
 repository-code: "https://github.com/seefreewind/offref-reg"
