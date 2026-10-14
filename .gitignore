@@ -9,3 +9,9 @@ figures/*.png
 figures/*.pdf
 supplementary/*.png
 supplementary/*.pdf
+
+._*
+.DS_Store
+qa/PANEL_MANIFEST.json
+qa/EXPORT_MANIFEST.json
+supplementary/*.svg
