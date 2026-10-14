@@ -1,5 +1,9 @@
 # OFFREF-REG
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23366652.svg)](https://doi.org/10.5281/zenodo.23366652)
+
+Verified archive: **v1.0.1**, DOI **10.5281/zenodo.23366652**. This version supersedes v1.0.0, whose SVG hashes were not synchronized with its integrity manifest. Numeric scientific source data did not change.
+
 A frozen reliability audit of AlphaGenome and Borzoi predictions for complete human non-reference insertions.
 
 ## Reproduce figures and check the frozen inputs
